@@ -4,3 +4,5 @@ ls -l
 uname -a
 
 yum list installed
+
+grep system
