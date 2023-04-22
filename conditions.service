@@ -1,2 +1,6 @@
-echo $*
+
+if = [when file rrr created ]
+then
+  cd rrr
+ fi
 
