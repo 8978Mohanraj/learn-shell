@@ -1,0 +1,2 @@
+ls -a
+mkdir /rrr
