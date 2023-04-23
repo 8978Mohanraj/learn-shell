@@ -1,6 +1,1 @@
-my_name=$mohan
-
-if [$my_name == "mohan"]
-then
-  echo your name is -$mohan
-  fi
+ curl https://www.themoviedb.org/movie/640146-ant-man-and-the-wasp-quantumania
